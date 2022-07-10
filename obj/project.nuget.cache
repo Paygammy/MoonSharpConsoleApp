@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y9cenXcXP4k/iWuOLaxAFlbRMzye0FMDj5rEhS+5eNMarERCtm3/shkuefZROLH3Ub5gWFC9IkKirn40bPwAaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\email\\source\\repos\\MoonSharpConsole\\MoonSharpConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\email\\.nuget\\packages\\moonsharp\\2.0.0\\moonsharp.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
